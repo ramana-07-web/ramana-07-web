@@ -116,15 +116,15 @@ Fun Fact:   I automate the things I'm too lazy to do twice 🚀
 <td width="50%" valign="top">
 
 ### 👁️ [Video Gesture Recognition](https://github.com/ramana-07-web/Video_Gesture_Recognition)
-<p><em>Real-Time Computer Vision Microservices</em></p>
+<p><em>Computer Vision \& Deep Learning</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
-> A full-stack React + Python microservice architecture with **4 independent backends** for real-time gesture recognition, face detection, and feature analysis using Deep Learning.
+> A real-time computer vision system specializing in **hand gesture recognition** and **facial landmark detection**. Built with OpenCV, MediaPipe, and Haar Cascades, utilizing Deep Learning for high-accuracy feature classification.
 
 <a href="https://github.com/ramana-07-web/Video_Gesture_Recognition">
   <img src="https://img.shields.io/badge/🔗_View_Project-6C63FF?style=for-the-badge" />
