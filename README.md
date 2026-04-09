@@ -17,7 +17,7 @@
   <a href="https://github.com/ramana-07-web">
     <img src="https://komarev.com/ghpvc/?username=ramana-07-web&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://linkedin.com/in/venkat-dharmapuri">
+  <a href="https://www.linkedin.com/in/dharmapuri-venkata-ramana-8701792a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:venkatdharmapuri07@gmail.com">
@@ -227,7 +227,7 @@ Fun Fact:   I automate the things I'm too lazy to do twice 🚀
 
 <div align="center">
 
-<a href="https://linkedin.com/in/venkat-dharmapuri">
+<a href="https://www.linkedin.com/in/dharmapuri-venkata-ramana-8701792a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:venkatdharmapuri07@gmail.com">
