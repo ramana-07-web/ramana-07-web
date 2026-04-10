@@ -156,18 +156,18 @@ Fun Fact:   I automate the things I'm too lazy to do twice 🚀
 
 <td width="50%" valign="top">
 
-### 💰 [Loan Approval Predictor](https://github.com/ramana-07-web/loan-approval-predictor)
-<p><em>End-to-End ML Prediction System</em></p>
+### ⚡ [Aries Task Orchestrator](https://github.com/ramana-07-web/aries-task-orchestrator)
+<p><em>Distributed Async Task Engine</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask_API-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-> A production-deployed ML system with a **Random Forest** model, Flask REST API, and a modern glassmorphism frontend. Fully deployed on Vercel for live predictions.
+> A scalable, containerized distributed task queue system using **FastAPI**, **Redis** as a message broker, and **PostgreSQL** for state persistence, demonstrating advanced backend architecture.
 
-<a href="https://github.com/ramana-07-web/loan-approval-predictor">
+<a href="https://github.com/ramana-07-web/aries-task-orchestrator">
   <img src="https://img.shields.io/badge/🔗_View_Project-6C63FF?style=for-the-badge" />
 </a>
 
